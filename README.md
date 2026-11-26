@@ -1,6 +1,6 @@
 # LockIn: trang giới thiệu
 
-Trang giới thiệu cho LockIn, ứng dụng hẹn cùng học cho sinh viên. Một bạn tạo buổi học và gửi link riêng cho từng bạn trong nhóm. Máy nhắc trước giờ học, rồi điểm danh ai đúng giờ, ai trễ.
+Trang giới thiệu cho LockIn, ứng dụng hẹn cùng học cho sinh viên. Một bạn tạo buổi học, nhập email các bạn trong nhóm, và LockIn gửi email mời từng người. Máy nhắc trước giờ học, rồi điểm danh ai đúng giờ, ai trễ.
 
 - Trang: https://lockin-4everyung.github.io/lockin-landing-page/
 - Prototype Figma: https://www.figma.com/proto/7Vm0iAHHDj2LtIL7AGjpC7/LockIn_MobileApp?node-id=25-563&starting-point-node-id=25%3A563&page-id=7%3A3&scaling=scale-down
